@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/vslam.dir/src/main.cpp.o -o vslam 
