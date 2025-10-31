@@ -1,0 +1,4 @@
+Dataset:
+  left_gray_dir: "/home/wxy/Documents/CppProjects/vslam_ws/datasets/data_stereo_flow/training/image_0/"
+  right_gray_dir: "/home/wxy/Documents/CppProjects/vslam_ws/datasets/data_stereo_flow/training/image_1/"
+  calib_dir: "/home/wxy/Documents/CppProjects/vslam_ws/datasets/data_stereo_flow/training/calib/"

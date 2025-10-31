@@ -1,2 +1,5 @@
-./idea
-./build
+/.idea/
+/build/
+/datasets/
+/cmake-build-debug/
+/.clang-tidy/
