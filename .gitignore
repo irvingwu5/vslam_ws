@@ -2,4 +2,4 @@
 /build/
 /datasets/
 /cmake-build-debug/
-/.clang-tidy/
+/.clang-tidy
